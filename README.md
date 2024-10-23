@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akila Dushyantha</h1>
-<h3 align="center">A Passionate Developer from Sri Lanka</h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif;">Hi 👋, I'm Akila Dushyantha Edirisekara</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">A Passionate Developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akila791&label=Profile%20views&color=0e75b6&style=flat" alt="akila791" /> </p>
 
@@ -21,14 +21,14 @@
   📫 How to reach me: <a href="mailto:akilaedirisekara@gmail.com">akilaedirisekara@gmail.com</a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">Connect with me:</h3>
 <p align="center">
   <a href="https://www.youtube.com/c/ad:crystal$" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
