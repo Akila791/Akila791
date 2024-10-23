@@ -19,7 +19,7 @@
 
 <br>
 
-- 📫 How to reach me: <strong><a href="mailto:akilaedirisekara@gmail.com">akilaedirisekara@gmail.com</a></strong>
+- 📫 How to reach me: <strong><a href="https://github.com/akila791">akila791</a></strong>
 
 <br>
 
