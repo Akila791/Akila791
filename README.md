@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Other :</h3>
 <p align="center">
   <a href="https://www.youtube.com/c/ad:crystal$" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <!-- Add other social links here -->
